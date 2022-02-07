@@ -1,0 +1,21 @@
+body {
+  background-color: #e0c9a9;
+  padding: 2rem;
+}
+
+.add-color {
+  margin: 0 0.2rem;
+  color: #963138;
+  font-weight: bold;
+}
+
+h3 {
+  display: inline-block;
+  border-radius: 30px;
+  background-color: #963102;
+  color: #fff;
+}
+
+hr {
+  margin-top: 3rem;
+}
